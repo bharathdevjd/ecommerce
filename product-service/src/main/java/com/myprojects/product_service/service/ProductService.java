@@ -19,7 +19,8 @@ public class ProductService {
     private final ProdutRepository produtRepository;
 
 
-
+    //Bug fix 1
+    //Bug fix 2
     public void createProduct(Productrequest productrequest) {
         Product product = Product.builder().
                 name(productrequest.getName()).
