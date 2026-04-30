@@ -23,6 +23,7 @@ public class ProductService {
     //Bug fix 2
 
     //Bug fix 4
+    //Bug fix 5
     public void createProduct(Productrequest productrequest) {
         Product product = Product.builder().
                 name(productrequest.getName()).
