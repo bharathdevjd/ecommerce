@@ -8,6 +8,7 @@ public class ProductServiceApplication {
 
 	// This is my main method
 	// Testing change in vscode 
+	//email signup 
 	public static void main(String[] args) {
 		SpringApplication.run(ProductServiceApplication.class, args);
 	}
