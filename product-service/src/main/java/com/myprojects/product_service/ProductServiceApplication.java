@@ -10,6 +10,7 @@ public class ProductServiceApplication {
 	// Testing change in vscode 
 	//email signup 
 	// french email signup
+	//user login
 	public static void main(String[] args) {
 		SpringApplication.run(ProductServiceApplication.class, args);
 	}
